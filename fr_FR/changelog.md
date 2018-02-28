@@ -3,7 +3,7 @@
 
 * Modif 1
 
-### Version 1.1.1: **_date_** ˜_ex: 31 Mai 2017_˜
+### Version 1.1.1: **_date_** ~~ex: 31 Mai 2017~~
 
 * Modif 1
 * Modif 2
