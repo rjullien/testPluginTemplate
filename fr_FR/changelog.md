@@ -3,12 +3,12 @@
 
 * Modif 1
 
-### Version 1.1.1: 31 Mai 2017
+### Version 1.1.1: <date> ˜_ex: 31 Mai 2017_˜
 
 * Modif 1
 * Modif 2
 
-### Version 1.1.0: 18 Mars 2017
+### Version 1.1.0: <date>
 
 * Modif 1
 * Modif 2
