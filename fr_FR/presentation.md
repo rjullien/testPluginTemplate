@@ -7,9 +7,10 @@ description
 # Market
 
 Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=<Plugin>)
-˜˜Changer <Plugin> par le nom du plugin˜˜
+
+~~Changer <Plugin> par le nom du plugin~~
 
 # Prévisualisation
 
-˜˜Inserer un screenshot du plugin en mode desktop˜˜
+~~Inserer un screenshot du plugin en mode desktop~~
 ![scrennshot1](../images/template_icon.png)
