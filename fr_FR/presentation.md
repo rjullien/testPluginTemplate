@@ -1,14 +1,14 @@
 # Description
 
-Plugin permettant de récupérer les informations des Xiaomi Plants ou MiFlora.
+Plugin permettant de ....
 
-Les Xiaomi Plants sont des sticks Bluetooth de la marque Xiaomi permettant de mesurer l'hygrométrie, la température, la lumière, l'engrais d'une plante. Nul besoin d'autre chose qu'une connexion Bluetooth, y compris via un appareil déporté.
-
+description
 
 # Market
 
-Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=MiFlora)
+Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?v=d&p=market&type=plugin&&name=<Plugin>)
 
 # Prévisualisation
 
-![scrennshot1](../images/MiFlora-Screenshot1.png)
+Inserer un screenshot du plugin en mode desktop
+![scrennshot1](../images/screenshot1.png)
