@@ -11,4 +11,4 @@ Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?
 # Prévisualisation
 
 Inserer un screenshot du plugin en mode desktop
-![scrennshot1](../images/screenshot1.png)
+![scrennshot1](../images/template_icon.png)
