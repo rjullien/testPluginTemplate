@@ -17,10 +17,10 @@ Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?
 
 # Forum
 
-Lien vers le forum [ici](https://www.jeedom.com/forum/viewtopic.php?f=142&t=xxxx)
-~~ Remplacer `t=xxxx` par le bon forum number~~
+Lien vers le forum [ici](https://www.jeedom.com/forum/viewtopic.php?t=xxxx)
+~~Remplacer `t=xxxx` par le bon forum number~~
 
 # Chatroom
 
 Lien vers le chat [ici](https://gitter.im/xxx)
-~~Remplacer le lien si le plugin a une Chatroom dédié, ou effacer ce paragraphe ~~
+~~Remplacer le lien si le plugin a une Chatroom dédié, ou effacer ce paragraphe~~
