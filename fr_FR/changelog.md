@@ -1,5 +1,5 @@
 # Changelog
-### Version 1.2.0:  **_date_**
+### Version 1.2.0:  **_date_** (Version en cours sur le market)
 ~~TODO: Decider si on garde les dates et les versions~~
 
 * Modif 1
