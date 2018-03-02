@@ -26,4 +26,4 @@ Lien vers le chat [ici](https://gitter.im/xxx)
 ~~Remplacer le lien si le plugin a une Chatroom dédié, ou effacer ce paragraphe~~
 
 # Documentation du plugin template
-Voici la documentation detaillé pour creer un plugin [Lien] (index-template.md)
+Voici la documentation detaillé pour creer un plugin [Lien](index-template.md)
