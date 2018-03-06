@@ -1,6 +1,7 @@
+# Chapitre a effacer dans votre plugin
+## Documentation pour creer un plugin:
+Voici la documentation detaillé pour creer un plugin [Lien](index-template.md)
 
-# Documentation du plugin template
-La documentation detaille pour ecrire un plugin se trouve dans le fichier index-template.md
 
-# Standard Jeedom-Plugins-Extra pour la documentation
+## Standard Jeedom-Plugins-Extra pour la documentation
 [Jeedom-Plugins-Extra/wiki/Documentation-d'un-Plugin](https://github.com/Jeedom-Plugins-Extra/Jeedom-Plugins-Extra/wiki/Documentation-d'un-Plugin)

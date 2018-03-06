@@ -19,6 +19,3 @@ Retrouvez le sur le Market Jeedom [ici](https://www.jeedom.com/market/index.php?
 
 Lien vers le forum [ici](https://www.jeedom.com/forum/viewtopic.php?t=xxxx)
 ~~Remplacer `t=xxxx` par le bon forum number~~
-
-# Documentation du plugin template
-Voici la documentation detaillé pour creer un plugin [Lien](index-template.md)
