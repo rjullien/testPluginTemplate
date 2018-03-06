@@ -1,4 +1,4 @@
-# Chapitre a effacer dans votre plugin
+# Chapitre à effacer dans votre plugin
 ## Documentation pour creer un plugin:
 Voici la documentation detaillé pour creer un plugin [Lien](index-template.md)
 
